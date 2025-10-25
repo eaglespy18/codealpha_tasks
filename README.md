@@ -8,7 +8,7 @@ Each task demonstrates my skills in front-end web development using **HTML, CSS,
 
 ## 📘 Task 1: Image Gallery
 **Description:**  
-A responsive image gallery featuring lightbox previews and hover animations.
+A responsive image gallery project featuring lightbox previews and hover animations.
 
 🔗 **Live Demo:** [View Gallery](https://eaglespy18.github.io/CodeAlpha_Image_Gallery/)  
 💻 **GitHub Repo:** [CodeAlpha_ImageGallery](https://github.com/eaglespy18/CodeAlpha_ImageGallery)
