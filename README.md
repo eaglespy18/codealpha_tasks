@@ -17,7 +17,7 @@ A responsive image gallery project featuring lightbox previews and hover animati
 
 ## 🧮 Task 2: Calculator
 **Description:**  
-A modern, fully responsive calculator built using HTML, CSS, and JavaScript with smooth animations and keyboard support.
+A modern project, fully responsive calculator built using HTML, CSS, and JavaScript with smooth animations and keyboard support.
 
 🔗 **Live Demo:** [View Calculator](https://eaglespy18.github.io/CodeAlpha_Calculator/)  
 💻 **GitHub Repo:** [CodeAlpha_Calculator](https://github.com/eaglespy18/CodeAlpha_Calculator)
