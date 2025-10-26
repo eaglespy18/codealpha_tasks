@@ -6,7 +6,7 @@ Each task demonstrates my skills in front-end web development using **HTML, CSS,
 
 ---
 
-## 📘 Task 1: Image Gallery
+## 📘 Task one (1): Image Gallery
 **Description:**  
 A responsive image gallery project featuring lightbox previews and hover animations.
 
