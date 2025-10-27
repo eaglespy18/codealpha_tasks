@@ -15,7 +15,7 @@ A responsive image gallery project featuring lightbox previews and hover animati
 
 ---
 
-## 🧮 Task Two (2): Calculator
+## 🧮 Task Two 2: Calculator
 **Description:**  
 A modern project, fully responsive calculator built using HTML, CSS, and JavaScript with smooth animations and keyboard support.
 
