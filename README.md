@@ -5,7 +5,8 @@ This repository contains my completed tasks for the **CodeAlpha Internship (Octo
 Each task demonstrates my skills in front-end web development using **HTML, CSS, and JavaScript**.
 
 ---
-
+ PROJECTS
+ 
 ## 📘 Task 1: Image Gallery
 **Description:**  
 A responsive image gallery project featuring lightbox previews and hover animations.
