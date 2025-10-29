@@ -1,12 +1,13 @@
 # 🌟 CodeAlpha Tasks - October Batch
 ## 👨‍💻 By Alhassan Mohammed Khidir
 
-This repository contains my completed tasks for the **CodeAlpha Internship (October Batch)**.  
+ PROJECTS
+ 
+ This repository contains my completed tasks for the **CodeAlpha Internship (October Batch)**.  
 Each task demonstrates my skills in front-end web development using **HTML, CSS, and JavaScript**.
 
 ---
- PROJECTS
- 
+
 ## 📘 Task 1: Image Gallery
 **Description:**  
 A responsive image gallery project featuring lightbox previews and hover animations.
