@@ -6,7 +6,7 @@
  This repository contains my completed tasks for the **CodeAlpha Internship (October Batch)**.  
 Each task demonstrates my skills in front-end web development using **HTML, CSS, and JavaScript**.
 
----
+--
 
 ## 📘 Task 1: Image Gallery
 **Description:**  
