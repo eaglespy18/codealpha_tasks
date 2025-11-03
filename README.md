@@ -13,7 +13,7 @@ A responsive image gallery project featuring lightbox previews and hover animati
 🔗 **Live Demo:** [View Gallery](https://eaglespy18.github.io/CodeAlpha_Image_Gallery/)  
 💻 **GitHub Repo:** [CodeAlpha_ImageGallery](https://github.com/eaglespy18/CodeAlpha_ImageGallery)
 
----
+
 
 ## 🧮 Task 2: Khidir's Calculator
 **Description:**  
