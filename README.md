@@ -31,7 +31,7 @@ Includes smooth scrolling, responsive design, and resume download.
 🔗 **Live Demo:** [View Portfolio](https://eaglespy18.github.io/CodeAlpha_Portfolio/)  
 💻 **GitHub Repo:** [CodeAlpha_Portfolio](https://github.com/eaglespy18/CodeAlpha_Portfolio)
 
----
+
 
 ### 📅 Submission
 **Deadline:** 10th November 2025  
