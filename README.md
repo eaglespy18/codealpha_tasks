@@ -38,5 +38,5 @@ Includes smooth scrolling, responsive design, and resume download.
 **Internship:** CodeAlpha October Batch  
 **Email:** alhassankhidir@gmail.com
 
----
+
 > 💬“Passion drives progress. Keep building. Keep learning. Never stand still. keep going”
