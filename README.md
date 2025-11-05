@@ -39,4 +39,4 @@ Includes smooth scrolling, responsive design, and resume download.
 **Email:** alhassankhidir@gmail.com
 
 
-> 💬“Passion drives progress. Keep building. Keep learning. Never stand still. keep going”
+> 💬“Passion drives progress. Keep building. Keep Coding. Keep learning. Never stand still. keep going”
