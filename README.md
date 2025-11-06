@@ -34,6 +34,7 @@ Includes smooth scrolling, responsive design, and resume download.
 
 
 ### 📅 Submission
+*** Alhassn Mohammed Khidir**
 **Deadline:** 10th November 2025  
 **Internship:** CodeAlpha October Batch  
 **Email:** alhassankhidir@gmail.com
