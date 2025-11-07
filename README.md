@@ -38,6 +38,6 @@ Includes smooth scrolling, responsive design, and resume download.
 **Deadline:** 10th November 2025  
 **Internship:** CodeAlpha October Batch  
 **Email:** alhassankhidir@gmail.com
-**Telephone number:** 0243395565
+**Phone number:** 0243395565
 
 > 💬“Passion drives progress. Keep building. Keep Coding. Keep learning. Never stand still. keep going”
