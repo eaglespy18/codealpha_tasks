@@ -40,4 +40,4 @@ Includes smooth scrolling, responsive design, and resume download.
 **Email:** alhassankhidir@gmail.com
 **Phone number:** 0243395565
 
-> 💬“Passion drives progress. Keep building. Keep Coding. Keep learning. Never stand still. keep going”
+> 💬“Passion drives progress. Keep building. Keep Coding. Keep learning. Never stand still. keep going.”
