@@ -23,7 +23,7 @@ A modern project, fully responsive calculator built using HTML, CSS, and JavaScr
 💻 **GitHub Repo:** [CodeAlpha_Calculator](https://github.com/eaglespy18/CodeAlpha_Calculator)
 
 
-## 💼 Task 3: Khidir's Portfolio Website prpoject
+## 💼 Task 3: Khidir's Portfolio Website project
 **Description:**  
 My personal developer portfolio showcasing my projects, skills, and contact details.  
 Includes smooth scrolling, responsive design, and resume download.
