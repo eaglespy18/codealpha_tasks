@@ -6,6 +6,8 @@
  This repository contains my completed tasks for the **CodeAlpha Internship (October Batch)**.  
 Each task below demonstrates my skills in front-end web development using **HTML, CSS, and JavaScript**.
 
+--------
+
 ## 📘 Task 1: Khidir's Image Gallery
 **Description:**  
 A responsive image gallery project featuring lightbox previews and hover animations.
