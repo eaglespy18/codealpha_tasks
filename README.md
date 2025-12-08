@@ -1,7 +1,7 @@
 # 🌟 CodeAlpha Tasks - October Batch
 ## 👨‍💻 By Alhassan Mohammed Khidir
 
--------
+----
 
 **THE PROJECTS**
  
