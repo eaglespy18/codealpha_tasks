@@ -1,8 +1,6 @@
 # 🌟 CodeAlpha Tasks - October Batch
 ## 👨‍💻 By Alhassan Mohammed Khidir
 
-----
-
 **THE PROJECTS**
  
  This repository contains my completed tasks for the **CodeAlpha Internship (October Batch)**.  
