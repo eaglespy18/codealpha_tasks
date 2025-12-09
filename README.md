@@ -28,8 +28,6 @@ A modern project, fully responsive calculator built using HTML, CSS, and JavaScr
 My personal developer portfolio showcasing my projects, skills, and contact details.  
 Includes smooth scrolling, responsive design, and resume download.
 
----
-
 🔗 **Live Demo:** [View Portfolio](https://eaglespy18.github.io/CodeAlpha_Portfolio/)  
 💻 **GitHub Repo:** [CodeAlpha_Portfolio](https://github.com/eaglespy18/CodeAlpha_Portfolio)
 
