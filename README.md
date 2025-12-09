@@ -6,7 +6,6 @@
  This repository contains my completed tasks for the **CodeAlpha Internship (October Batch)**.  
 Each task below demonstrates my skills in front-end web development using **HTML, CSS, and JavaScript**.
 
-
 ## 📘 Task 1: Khidir's Image Gallery
 **Description:**  
 A responsive image gallery project featuring lightbox previews and hover animations.
@@ -23,7 +22,7 @@ A modern project, fully responsive calculator built using HTML, CSS, and JavaScr
 🔗 **Live Demo:** [View Calculator](https://eaglespy18.github.io/CodeAlpha_Calculator/)  
 💻 **GitHub Repo:** [CodeAlpha_Calculator](https://github.com/eaglespy18/CodeAlpha_Calculator)
 
---------
+----
 
 ## 💼 Task 3: Khidir's Portfolio Website project
 **Description:**  
